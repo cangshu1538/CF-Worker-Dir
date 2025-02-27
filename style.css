@@ -14,7 +14,10 @@ header {
 }
 
 #head {
-  background-image: linear-gradient(to top, #537895 0%, #09203f 100%);
+  background-image: url('https://img1.tucang.cc/api/image/show/4188b1e0c3f43c739d5a50599a4ba7dd');
+  background-size: cover; /* 确保图片覆盖整个区域 */
+  background-position: center; /* 图片居中显示 */
+  background-repeat: no-repeat; /* 防止图片重复 */
 }
 
 #nav .item {
